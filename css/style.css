@@ -1,16 +1,3 @@
-/* ############### PLEASE NOTE - THIS IS FOR THE TEACHERS !!! In the readme file, you can find explanations for most of the code I have written here. I had to do that, considering that some approaches are different from what we have learned so far. Therefore, I preferred to write the longer notes in the readme file rather than comment on the actual code. I hope that's ok with you guys. ############### */
-/*  /*
-/*  */
-/*  */
-/*  */
-/*  */
-/*  */
-/*  /*
-/*  */
-/*  */
-/*  */
-/*  */
-/*  */
 /* ###############================ THIS COMMENT START'S A NEW PAGE LIKE: HOME, SHOP, ABOUT, CONTACT, AND PRODUCT PAGE ===============############### */
 /* ############### THIS COMMENT START'S AN IMPORTANT STYLE LIKE: NAVIGATION, FOOTER OR MEDIA QUERIES BREAKPOINTS ###############  */
 /* <<<------------------ THIS COMMENT ITS A SECTION LEVEL COMMENT LIKE: HERO SECTION, INSTAGRAM SECTION, BANNER SECTION, ETC.---------------->>> */
@@ -167,9 +154,6 @@ a {
   color: var(--headings-color);
   font-weight: 500;
 }
-/* a:active {
-  text-decoration: underline;
-} */
 
 .primary-cta {
   display: block;
@@ -253,7 +237,6 @@ a {
   width: 100%;
   padding: 0 2em;
   margin: 0 auto;
-  /* background: rgb(92, 97, 81); */
 }
 
 .main-navigation {
@@ -892,7 +875,6 @@ section.hero-banner {
 
 /* <<<------------------ Shop Page Instagram Feed Section (max-width: 800px)---------------->>> */
 .instagram {
-  /* padding-top: 0; */
   text-align: center;
 }
 
@@ -1281,7 +1263,6 @@ section.bag-hero {
   position: relative;
   height: 100vh;
   width: 100%;
-  /* background: gray; */
 }
 
 .absolute-block {
@@ -1625,7 +1606,6 @@ form.checkout-form label {
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* gap: 2em; */
   justify-content: center;
 }
 
@@ -2483,9 +2463,6 @@ form.checkout-form label {
   .split-right {
     flex-direction: column-reverse;
   }
-  /* .split-right-content img {
-    padding-bottom: 3em;
-  } */
 
   .split-left-content,
   .split-left img {
@@ -2495,7 +2472,6 @@ form.checkout-form label {
   .split-right-content,
   .split-right img {
     width: 100%;
-    /* padding-bottom: 3em; */
   }
 
   /* <<<------------------ About Us Page Story Section ---------------->>> (max-width: 486px)*/
@@ -2611,7 +2587,6 @@ form.checkout-form label {
     display: flex;
     gap: 2em;
     flex-direction: column;
-    /* width: 100%; */
   }
 
   .dropdown-field {
@@ -2699,7 +2674,6 @@ form.checkout-form label {
     grid-column: 6 / 12;
     grid-row: 4/ 6;
     height: 700px;
-    /* width: 100%; */
   }
 
   /* <<<------------------ Home Page Banner Section (min-width: 1441px) ---------------->>> */
